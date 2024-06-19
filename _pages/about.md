@@ -22,10 +22,9 @@ Field Experiment
 
 Working Papers:
 ======
-Meixian Wang, Jaehwuen Jung “The Impact of Realism and AI Disclosure on Virtual Influencer Effectiveness: A Large Field Experiment”
-Drafting. Target: MIS Quartly.
+* Meixian Wang, Jaehwuen Jung “The Impact of Realism and AI Disclosure on Virtual Influencer Effectiveness: A Large Field Experiment”
+Drafting. Target: MIS Quarterly.
 
-------
 Meixian Wang, Keran Zhao, Sunil Wattal "Charity Streams on Twitch: Impact on Streamers, Viewers, and Fundraising Potential"
 Drafting. Target: Information Systems Research.
 
