@@ -1,9 +1,17 @@
 ---
-title: "An Empirical Case Study of the Impact of Superstar Streamer Exits on Live Streaming E-Commerce Platforms"
+title: "Does Sharing Make My Data More Insecure? An Empirical Study on Health Information Exchange and Data Breaches"
+excerpt: "<br/><img src='/images/trendOfBreachAndHIE1.png'>"
 ---
-Abstract
----
-Although superstar streamers currently dominate the emerging live streaming e-commerce (LSE) platforms, their enduring presence on such platforms is not guaranteed. Superstar streamers are important because they attract consumers, promote new sellers, and increase sales. However, their exit from LSE platforms has been largely neglected in the literature. To address this research gap, this study examines how the exit of superstar streamers impacts peer streamers on the same LSE platform. Using data collected from Taobao Live, we model the superstar exit effect, using the unexpected exit of Viya, a once popular streamer on Taobao Live, as an exogenous shock on the performance of peer streamers. Also, we examine challenges posed by the exit of superstar streamers from a market structure perspective, considering the heterogeneous impact of streamer types and brand halo effects. Our results suggest that in general, streamers on LSE platforms benefit from a superstar streamer’s exit through a redistribution of consumer demand across similar streamers. Furthermore, we found that streamers employed by brands benefit from the brand halo effect and gain more sales and viewership than independent streamers. Our study extends the literature on LSE, the superstar effect, and brand halo effects. Our findings also have practical implications for platform managers, brands, streamers, and consumers.
+
+This paper examines the information security implications of participating in inter-organizational systems (IOS) in the context of the healthcare industry. Public concern regarding data breach risks has increased as more hospitals share their data through electronic Health Information Exchange (HIE) systems, a type of IOS. 
+
+To study the impact of joining an HIE on a hospital’s data breach risk, we use a six-year panel data on hospital characteristics, HIE participation status, and data breach incidents from multiple sources.
+
+The results show that the likelihood that a hospital experiences data breaches decreases by 1.7 percentage points (43% reduction) after joining an HIE. 
+
+Furthermore, we find that the magnitude of breach risk reduction is larger on an HIE member hospital with a higher ex-ante IT security investment level. Also, the likelihood of data breaches caused by insiders or illegal access to IT systems significantly decreases after a hospital joins an HIE (whereas there is no significant impact on breaches caused by outsiders or physical breaches). 
+
+This paper contributes to the information systems literature by studying the overall impact of IOS adoption on organizational data breaches. It also sheds light on the mechanisms of data security governance in the IOS context.
 
 
 
