@@ -22,11 +22,11 @@ repository               : "MeixianWang2/MeixianWang2.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Meixian Wang(汪媚仙)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "A Ph.D. candidate in Fox Business School of Temple University"
+  location         : # "Earth"
+  employer         : "Temple University"
   uri              : # URL
   email            : "none@example.org" 
 
