@@ -13,7 +13,6 @@ collection: resources
 
 
 **Yihong liu**
-
 (https://blog.yihong-liu.com/)
 
 ------
