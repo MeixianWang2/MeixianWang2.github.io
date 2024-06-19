@@ -11,35 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Management Information Systems, Temple University, 2026 (expected)
+* M.S. in Business Analytics and Project Management, University of Connecticut School of Business, 2020
 
-Work experience
+Research Interest
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Topics
+  * Online Platforms
+  * Video-based Social Media
+  * Creator Economy
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Methods
+  * Econometrics
+  * Field Experiment Design
+  * Machine Learning
   
-Skills
+Working Papers
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Meixian Wang, Jaehwuen Jung “The Impact of Realism and AI Disclosure on Virtual Influencer Effectiveness: A Large Field Experiment” Drafting. Target: MIS Quartly.
+* Meixian Wang, Keran Zhao, Sunil Wattal “Charity Streams on Twitch: Impact on Streamers, Viewers, and Fundraising Potential” Drafting. Target: Information Systems Research.
+* Meixian Wang, Keran Zhao, Jason Bennett Thatcher “The Impact of Superstar Exits on Live Streaming E-Commerce Platforms” Under Review
+* Meixian Wang, Guohou Shan, Jason Bennett Thatcher “AI versus Human? Investigating the heterogeneous effect of Online Shopping Living Streamers” Preparing for journal submission. Target: Information Systems Research.
 
 Publications
 ======
