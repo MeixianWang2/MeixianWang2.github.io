@@ -11,9 +11,9 @@ Meixian(Mei) Wang is a PhD student in information systems management at Fox Busi
 
 Research Topics:
 ======
-Video-sharing platform /
-Creator economy and Influencer marketing /
-Generative artificial intelligence (AI) /
+Video-sharing platform ,
+Creator economy and Influencer marketing ,
+Generative artificial intelligence (AI) ,
 
 Research Methodologies:
 ======
