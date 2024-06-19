@@ -1,7 +1,12 @@
 ---
-layout: home
+layout: archive
+title: "Curriculum Vitae"
 author_profile: true
 permalink: /cv/
-title: "Curriculum Vitae"
+
 ---
-You can click <a href="/files/cv.pdf" download>here</a> to download my CV.
+{% include base_path %}
+
+<iframe src = "/files/cv.pdf" width = "1000" height = "1500">
+  This browser does not support PDFs. Please download the PDF to view it: Download pdf
+</iframe>
