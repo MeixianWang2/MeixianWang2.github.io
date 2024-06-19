@@ -32,6 +32,8 @@ Drafting. Target: Information Systems Research.
 ------
 Meixian Wang, Keran Zhao, Jason Bennett Thatcher “The Impact of Superstar Exits on Live Streaming E-Commerce Platforms”
 Under Review
+
+------
 Meixian Wang, Guohou Shan, Jason Bennett Thatcher “AI versus Human? Investigating the heterogeneous effect of Online Shopping Living Streamers”
 Preparing for journal submission. Target: Information Systems Research.
 
