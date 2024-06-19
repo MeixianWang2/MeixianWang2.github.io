@@ -11,28 +11,18 @@ Meixian(Mei) Wang is a PhD student in information systems management at Fox Busi
 
 Research Topics:
 ======
-Video-sharing platform,
-Creator economy and Influencer marketing,
-Generative artificial intelligence (AI)
+* Video-sharing platform
+* Creator economy and Influencer marketing
+* Generative artificial intelligence (AI)
 
 Research Methodologies:
 ======
-Econometrics,
-Field Experiment
+* Econometrics
+* Field Experiment
 
-Working Papers:
+Working Papers
 ======
-* Meixian Wang, Jaehwuen Jung “The Impact of Realism and AI Disclosure on Virtual Influencer Effectiveness: A Large Field Experiment”
-Drafting. Target: MIS Quarterly.
-
-Meixian Wang, Keran Zhao, Sunil Wattal "Charity Streams on Twitch: Impact on Streamers, Viewers, and Fundraising Potential"
-Drafting. Target: Information Systems Research.
-
-------
-Meixian Wang, Keran Zhao, Jason Bennett Thatcher “The Impact of Superstar Exits on Live Streaming E-Commerce Platforms”
-Under Review
-
-------
-Meixian Wang, Guohou Shan, Jason Bennett Thatcher “AI versus Human? Investigating the heterogeneous effect of Online Shopping Living Streamers”
-Preparing for journal submission. Target: Information Systems Research.
-
+* Meixian Wang, Jaehwuen Jung “The Impact of Realism and AI Disclosure on Virtual Influencer Effectiveness: A Large Field Experiment” Drafting. Target: MIS Quarterly.
+* Meixian Wang, Keran Zhao, Sunil Wattal “Charity Streams on Twitch: Impact on Streamers, Viewers, and Fundraising Potential” Drafting. Target: Information Systems Research.
+* Meixian Wang, Keran Zhao, Jason Bennett Thatcher “The Impact of Superstar Exits on Live Streaming E-Commerce Platforms” Under Review
+* Meixian Wang, Guohou Shan, Jason Bennett Thatcher “AI versus Human? Investigating the heterogeneous effect of Online Shopping Living Streamers” Preparing for journal submission. Target: Information Systems Research.
