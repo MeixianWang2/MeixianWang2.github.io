@@ -5,15 +5,11 @@ collection: resources
  
 ---
 
+# Professors
 
+**Zenan "Alan" Chen**
 
-Update frequently
-
-# Courses
-
-**Quantitative method & Causal inference**
-
-[Quantitative Social Science Methods I - by *Gary King*](https://projects.iq.harvard.edu/gov2001)
+[Quantitative Social Science Methods I - by *Gary King*](https://zenan.ch/)
 
 [Arizona Math Camp - by *Mark Walker*](http://www.u.arizona.edu/~mwalker/MathCamp2021.htm)
 
