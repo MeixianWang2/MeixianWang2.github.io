@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-Down below are introductions of selected projects:
+
 
 {% include base_path %}
 
