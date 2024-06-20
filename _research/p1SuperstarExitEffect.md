@@ -1,5 +1,7 @@
 ---
 title: "An Empirical Case Study of the Impact of Superstar Streamer Exits on Live Streaming E-Commerce Platforms"
+collection: research
+permalink: /research/p1SuperstarExitEffect
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 ---
 
