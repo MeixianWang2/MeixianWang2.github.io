@@ -1,7 +1,7 @@
 ---
 title: "An Empirical Case Study of the Impact of Superstar Streamer Exits on Live Streaming E-Commerce Platforms"
 collection: research
-permalink: /research/p1SuperstarExitEffect
+permalink: /research/p3SuperstarExitEffect
 ---
 
 Abstract
