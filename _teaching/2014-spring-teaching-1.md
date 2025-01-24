@@ -11,7 +11,7 @@ location: "Philadelphia, USA"
 
 Course Description
 ======
-The course provides a foundation for designing database systems and analyzing business data to enhance firm competitiveness. Concepts introduced in this course aim to develop an understanding of the different types of business data, various analytical approaches, and the application of these approaches to solve business problems. Students will have hands-on experience with current, cutting-edge tools such as MySQL and Python and with practical projects (e.g., database design, data visualization, introductory machine learning). 
+The course provides a foundation for **designing database systems** and **analyzing business data** to enhance firm competitiveness. Concepts introduced in this course aim to develop an understanding of the different types of business data, various analytical approaches, and the application of these approaches to solve business problems. Students will have hands-on experience with current, cutting-edge tools such as **MySQL and Python** and with practical projects (e.g., database design, data visualization, introductory machine learning). 
 
 Teaching Philosopgy
 ======
