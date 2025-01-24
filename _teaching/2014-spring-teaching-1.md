@@ -9,12 +9,11 @@ location: "Philadelphia, USA"
 ---
 
 
-Teaching Philosopy
+Course Description
 ======
-My teaching interests include providing extensive hands-on projects on emerging big data and analytics technologies so students can make data-driven decisions when challenging business and societal problems. 
+The course provides a foundation for designing database systems and analyzing business data to enhance firm competitiveness. Concepts introduced in this course aim to develop an understanding of the different types of business data, various analytical approaches, and the application of these approaches to solve business problems. Students will have hands-on experience with current, cutting-edge tools such as MySQL and Python and with practical projects (e.g., database design, data visualization, introductory machine learning). 
 
-Heading 2
+Teaching Philosopgy
 ======
+I believe in the transformative power of Information Technology and data-driven decision-making to address challenging business and societal problems. My goal is to equip all students in my class with the skills and mindset to use IT effectively and make informed decisions that drive success in their careers and personal lives. To achieve this, my teaching is guided by four key principles: sparking curiosity, enhancing the learning experience, fostering open feedback, and promoting inclusion and diversity.
 
-Heading 3
-======
