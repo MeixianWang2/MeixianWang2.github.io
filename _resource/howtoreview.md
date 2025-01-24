@@ -53,8 +53,6 @@ be **informative to editors** in arriving at their decisions as well as **constr
 1. Seibert “Anatomy of an R&R (or Reviewers are an Author’s Best Friends)” *Academy of Management Journal*, 49:2, 203-207, 2006
 2. Rynes “Observations on ‘Anatomy of an R&R’ and Other Reflections,” *Academy of Management Journal*, 49:2, 208-214, 2006
 
-**Samples:**
-
-[Template](https://www.notion.so/Template-992ddcbb9b9a461bb6ef4db3e141146f?pvs=21)
+**Materials:**
 
 [how to write a referee report.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d95e0a79-3134-4b5d-b84a-7bfc09f48932/how_to_write_a_referee_report.pdf)
