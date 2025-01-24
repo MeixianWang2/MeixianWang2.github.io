@@ -62,3 +62,6 @@ be **informative to editors** in arriving at their decisions as well as **constr
 **Materials:**
 
 [how to write a referee report.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d95e0a79-3134-4b5d-b84a-7bfc09f48932/how_to_write_a_referee_report.pdf)
+
+[MISQ Workshops for Author and Reviewer Development.pdf](https://github.com/user-attachments/files/18543104/MISQ.Workshops.for.Author.and.Reviewer.Development.pdf)--application deadline by December 1st
+
