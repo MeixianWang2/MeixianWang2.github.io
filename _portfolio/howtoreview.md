@@ -1,5 +1,5 @@
 ---
-title: "How to review a paper -MISQ reviewer workshop2025"
+title: "How to review a paper -- MISQ reviewer workshop2025"
 collection: portfolio
 ---
 
