@@ -11,4 +11,5 @@ Influencer marketing has become essential for brands, and the advent of generati
 
 **Keywords**: Influencer marketing, virtual influencers, anthropomorphism design, disclosure effect, algorithmic transparency, randomized field experiment
 
-![image](https://github.com/user-attachments/assets/99ace427-c75c-4d16-9237-90dd9dd2ee9b)
+<img width="751" alt="Screenshot 2025-01-24 at 3 23 06 PM" src="https://github.com/user-attachments/assets/ef57605e-9075-4c25-9493-041175abdaa9" />
+
