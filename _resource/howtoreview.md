@@ -2,7 +2,8 @@
 
 be **informative to editors** in arriving at their decisions as well as **constructive to authors** regardless of the editorial decision (reject, revise, accept).
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9e16c8d3-0cd0-4b7c-bc0a-845b9c4b60dd/Untitled.png)
+<img width="848" alt="Untitled" src="https://github.com/user-attachments/assets/837d1fb9-2e22-4416-a5ba-d01b9c08bc88" />
+
 
 - Why Review？
     1. **review three papers for every paper** that submit or resubmit to a journal.
@@ -12,9 +13,8 @@ be **informative to editors** in arriving at their decisions as well as **constr
     When a reviewer is invited to review a manuscript, it is important that they respond to the review invitation immediately, **ideally on the same day**. **Never reject Top journal’s review invitation.**
     
 - How to write a review
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2468e66d-b605-4061-9648-8d3dab743204/Untitled.png)
-    
+    <img width="677" alt="guide" src="https://github.com/user-attachments/assets/42a200a6-5123-4b8b-afed-f5a11e9f117a" />
+
     - **What should be included in a review?**
         1. Statement of your expertise and the aspects of the work that you assessed or did not. Especially when you are not familiar with the study.
         2. Your succinct three to five sentence summary of the work. 
@@ -37,8 +37,8 @@ be **informative to editors** in arriving at their decisions as well as **constr
     3. Pay attention to your top journal reviews because when EIC choose the next AE or SE, they will go through your review history and sends out surveys to collect opinions from SEs and AEs.
 - **Why top journals accept your paper**
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8bbb9bb5-085f-42f5-8c54-bfdc9293720d/Untitled.png)
-    
+  <img width="860" alt="reason" src="https://github.com/user-attachments/assets/f06176e9-2b17-4dfc-afc3-3caae4fd57cd" />
+
 
 **Reference:**
 
