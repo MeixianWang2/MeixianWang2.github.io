@@ -13,6 +13,7 @@ be **informative to editors** in arriving at their decisions as well as **constr
     When a reviewer is invited to review a manuscript, it is important that they respond to the review invitation immediately, **ideally on the same day**. **Never reject Top journal’s review invitation.**
     
 - How to write a review
+  
     <img width="677" alt="guide" src="https://github.com/user-attachments/assets/42a200a6-5123-4b8b-afed-f5a11e9f117a" />
 
     - **What should be included in a review?**
