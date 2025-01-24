@@ -8,12 +8,63 @@ categories:
 tags:
   - edge case
 ---
-Monocle ipsum dolor sit amet handsome pariatur aliqua, hub remarkable irure commodo classic deserunt bespoke. Sunt commodo signature, Swiss minim flat white Tsutaya excepteur artisanal et Nordic laborum joy ANA. Beams mollit exquisite Ginza efficient dolore qui Comme des Garçons Winkreative Lufthansa bulletin global. Iconic sed liveable duis. Mollit dolore eu laboris Comme des Garçons hub pintxos sed eiusmod tote bag Shinkansen nisi consectetur pariatur. Nordic international quis finest Baggu dolore, bureaux hub hand-crafted ut joy sint Airbus A380.
+**Role of the Reviewer —— Advisor, not Decision Maker. Never recommend accept/R&R/reject in your review content.** 
 
-Conversation handsome hub cosy, enim emerging sed K-pop velit Gaggenau charming proident et boulevard ryokan. Remarkable airport deserunt international est, nulla minim magna emerging discerning in exclusive dolor. Commodo dolore deserunt cosy, global Nordic culpa uniforms signature charming. Smart ryokan commodo, eiusmod global occaecat incididunt aliqua Beams. Boulevard conversation excepteur finest Swiss non veniam Comme des Garçons essential artisanal. Destination Scandinavian international, anim Boeing 787 in duis Baggu irure essential.
+be **informative to editors** in arriving at their decisions as well as **constructive to authors** regardless of the editorial decision (reject, revise, accept).
 
-Fugiat exclusive laborum, Gaggenau ad Winkreative sharp elit labore. Remarkable officia ryokan Boeing 787, consectetur boutique Nordic Singapore espresso elit iconic perfect izakaya soft power excepteur. Ut veniam carefully curated K-pop dolore, uniforms in voluptate. Craftsmanship Ettinger Lufthansa sophisticated esse boutique veniam exquisite. Aute cillum bespoke, intricate consectetur in exquisite international lovely bulletin irure Washlet Gaggenau deserunt. Efficient eu quality of life wardrobe labore, dolor emerging airport concierge reprehenderit izakaya dolore liveable Baggu.
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9e16c8d3-0cd0-4b7c-bc0a-845b9c4b60dd/Untitled.png)
 
-Commodo elegant essential consectetur Gaggenau culpa consequat id sophisticated St Moritz sunt conversation duis non velit. Nulla business class non ut Marylebone ANA soft power fugiat carefully curated. Bureaux sed punctual handsome Washlet impeccable hand-crafted aute extraordinary tote bag enim boulevard soft power sleepy. Dolore conversation irure Zürich the best adipisicing, vibrant finest hub anim premium aliqua. Cupidatat smart international, bureaux Baggu id efficient punctual. Tempor nulla flat white enim, K-pop incididunt elit efficient Toto uniforms concierge discerning. Concierge sleepy extraordinary, deserunt Melbourne commodo Nordic Winkreative Washlet Ginza exercitation espresso.
+- Why Review？
+    1. **review three papers for every paper** that submit or resubmit to a journal.
+    2. reviewing helps develop both one’s reviewing and editorial skills as well as one’s authorial and scholarship skills.
+- Accepting the Reviewer Invitation
+    
+    When a reviewer is invited to review a manuscript, it is important that they respond to the review invitation immediately, **ideally on the same day**. **Never reject Top journal’s review invitation.**
+    
+- How to write a review
+    
+    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2468e66d-b605-4061-9648-8d3dab743204/Untitled.png)
+    
+    - **What should be included in a review?**
+        1. Statement of your expertise and the aspects of the work that you assessed or did not. Especially when you are not familiar with the study.
+        2. Your succinct three to five sentence summary of the work. 
+        3. Assessment of the contributions, current and potential, and the rationale for the assessment. 
+        4. Assessment of the key strengths of the work. 
+        5. The major issues, differentiating between issues that are fatal, showstoppers but not necessarily fatal, minor, and your preferences; where possible, provide suggestions on how the issues may be addressed; group and consolidate your comments into coherent themes (e.g., concerns with theoretical development, concerns with measurement) rather than merely providing a list of issues or a page-by-page critique. 
+        6. Holistic assessment of the work given the pros and cons.
+        7. You should not include your advice to the editors on the decision (accept, revise, reject) in your written comments to the authors.
+        
+- **Referee structure:**
+    1. put comments into categories: major comments, minor comments, writing, literature review, etc. 
+    2. Always finish the report within one week of receiving the paper. 
+    3. Give suggestions that make the paper good.
+    4. Be polite and professional in your referee report.
+    5. Always put references to provide evidence
+    6. Be clear in the referee report. 
+- **How to learn from the review process?**
+    1. Before sending out the review, send the draft to the AE to ask for feedback. 
+    2. Look at the review summary to compare and learn from it. 
+    3. Pay attention to your top journal reviews because when EIC choose the next AE or SE, they will go through your review history and sends out surveys to collect opinions from SEs and AEs.
+- **Why top journals accept your paper**
+    
+    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8bbb9bb5-085f-42f5-8c54-bfdc9293720d/Untitled.png)
+    
 
-Tsutaya sed in business class sharp. Do Beams in adipisicing Lufthansa. Business class occaecat Melbourne, irure Singapore commodo espresso carefully curated quis quality of life adipisicing. Impeccable laborum efficient classic proident in. Beams Helsinki ullamco Marylebone dolore sophisticated concierge Muji anim duis joy ut. Comme des Garçons aute Muji in aliquip ryokan soft power Nordic essential ANA culpa elegant.
+**Reference:**
+
+- Agarwal, Echambadi, Franco, and Sarkar “Reap Rewards: Maximizing Benefits from Reviewer Comments,” *Academy of Management Journal*, 49:2, 191-196, 2006.
+- Rai, Arun. 2016. "Editor's Comments: Writing a Virtuous Review," MIS Quarterly, (40: 3) pp.iii-x.
+- Daft, “Why I Recommended That Your Manuscript Be Rejected and What You Can Do about It,” in Cummings and Frost (Eds.) *Publishing in the Organizational Sciences*, Irwin, 1985, pp. 193-209.
+- Detmar Straub editorials:
+1. Straub, Detmar W.. 2009. "Editor's Comments: Diamond Mining or Coal Mining? Which Reviewing Industry Are We In?," *MIS Quarterly*, (33: 2) pp.iii-vii.
+2. Straub, Detmar W.. 2009. "Editor's Comments: Why Top Journals Accept Your Paper," *MIS Quarterly*, (33: 3) pp.iii-x.
+3. Straub, D. W., & Ang, S. (2008). Editor's comments: readability and the relevance versus rigor debate. *Mis Quarterly*, iii-xiii.
+- Academy of Management Journal essays:
+1. Seibert “Anatomy of an R&R (or Reviewers are an Author’s Best Friends)” *Academy of Management Journal*, 49:2, 203-207, 2006
+2. Rynes “Observations on ‘Anatomy of an R&R’ and Other Reflections,” *Academy of Management Journal*, 49:2, 208-214, 2006
+
+**Samples:**
+
+[Template](https://www.notion.so/Template-992ddcbb9b9a461bb6ef4db3e141146f?pvs=21)
+
+[how to write a referee report.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d95e0a79-3134-4b5d-b84a-7bfc09f48932/how_to_write_a_referee_report.pdf)
