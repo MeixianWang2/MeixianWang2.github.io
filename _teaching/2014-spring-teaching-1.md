@@ -15,5 +15,5 @@ The course provides a foundation for **designing database systems** and **analyz
 
 Teaching Philosopgy
 ======
-I believe in the transformative power of Information Technology and data-driven decision-making to address challenging business and societal problems. My goal is to equip all students in my class with the skills and mindset to use IT effectively and make informed decisions that drive success in their careers and personal lives. To achieve this, my teaching is guided by four key principles: sparking curiosity, enhancing the learning experience, fostering open feedback, and promoting inclusion and diversity.
+I believe in **the transformative power of Information Technology** and **data-driven decision-making** to address challenging business and societal problems. My goal is to equip all students in my class with the skills and mindset to use IT effectively and make informed decisions that drive success in their careers and personal lives. To achieve this, my teaching is guided by four key principles: **sparking curiosity**, **enhancing the learning experience**, **fostering open feedback**, and **promoting inclusion and diversity**.
 
