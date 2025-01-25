@@ -2,7 +2,7 @@
 title: "How to review a paper -- Learning from MISQ reviewer workshop2025"
 collection: portfolio
 ---
-
+---
 
 Role of the Reviewer —— Advisor, not Decision Maker. Never recommend accept/R&R/reject in your review content.
 
