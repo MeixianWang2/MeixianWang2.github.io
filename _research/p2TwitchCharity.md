@@ -1,5 +1,5 @@
 ---
-title: "Enhancing Digital Fundraising: The Impact of Charity Streams on Streamer Engagement and Donor Behavior"
+title: "When Prosocial Opportunities Collide: Tipping vs. Charity on Digital Platforms"
 
 ---
 
