@@ -13,3 +13,5 @@ Influencer marketing has become essential for brands, and the advent of generati
 
 <img width="751" alt="Screenshot 2025-01-24 at 3 23 06 PM" src="https://github.com/user-attachments/assets/ef57605e-9075-4c25-9493-041175abdaa9" />
 
+Full draft: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202553
+
