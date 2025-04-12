@@ -23,7 +23,7 @@ Research Methodologies:
 
 Working Papers
 ======
-* Meixian Wang, Jaehwuen Jung “The Impact of Realism and AI Disclosure on Virtual Influencer Effectiveness: A Large Field Experiment” Drafting. Target: MIS Quarterly.
+* Meixian Wang, Jaehwuen Jung, Ravi Bapna “The Impact of Realism and AI Disclosure on Virtual Influencer Effectiveness: A Large Field Experiment” Drafting. Under Review.
 * Meixian Wang, Keran Zhao, Sunil Wattal “Charity Streams on Twitch: Impact on Streamers, Viewers, and Fundraising Potential” Drafting. Target: Information Systems Research.
 * Meixian Wang, Keran Zhao, Jason Bennett Thatcher “The Impact of Superstar Exits on Live Streaming E-Commerce Platforms” Under Review
 * Meixian Wang, Keran Zhao, Jason Bennett Thatcher “AI versus Human? Investigating the heterogeneous effect of Online Shopping Living Streamers” Preparing for journal submission. Target: Information Systems Research.
