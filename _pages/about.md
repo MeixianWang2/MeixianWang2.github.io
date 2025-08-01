@@ -1,3 +1,5 @@
+<div style="width: 100%; line-height: 1.3; margin-left: 2em; margin-right: 0em; margin-bottom: 0.2em; text-align: justify" markdown="1">
+
 ---
 permalink: /
 title: "A Short Bio:"
