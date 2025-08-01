@@ -22,7 +22,7 @@ repository               : "MeixianWang2/MeixianWang2.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Meixian Wang(汪媚仙)"
+  name             : "Meixian Wang 汪媚仙"
   pronouns         : # example: "she/her"  
   bio              : "A Ph.D. candidate in Fox Business School of Temple University"
   location         : # "Earth"
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/meixian-mei-wang-017438114/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
