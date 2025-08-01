@@ -1,4 +1,3 @@
-<div style="width: 100%; line-height: 1.3; margin-left: 2em; margin-right: 0em; margin-bottom: 0.2em; text-align: justify" markdown="1">
 
 ---
 permalink: /
@@ -8,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<div style="width: 100%; line-height: 1.3; margin-left: 2em; margin-right: 0em; margin-bottom: 0.2em; text-align: justify" markdown="1">
 
 Meixian (Mei) Wang is a Ph.D. candidate in Information Systems Management at the Fox School of Business, Temple University. Before joining Temple, she earned her master’s degree in Business Analytics and Project Management from the University of Connecticut. Prior to her academic career, Mei accumulated six years of industry experience in the retail industry, working with global brands such as Uniqlo and Adidas in China.
 
