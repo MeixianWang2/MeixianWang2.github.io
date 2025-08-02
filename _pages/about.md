@@ -1,4 +1,3 @@
-
 ---
 permalink: /
 title: "A Short Bio:"
