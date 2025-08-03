@@ -12,12 +12,13 @@ redirect_from:
   <h1>Working Papers</h1>
 
 
-  <h2 style="color: #910f0f">Mechanochemistry</h2>
-  <em>Mechanochemistry involves [controlling chemical reactions](https://www.chem.tamu.edu/cmcc/) through mechanical forces and stresses. It was named one of the ten emerging technologies in chemistry due to the potential for green chemical synthesis. Additionally, tribochemistry – a subset of mechanochemistry when interfacial shear becomes important – plays crucial roles in key engineering systems such as automobile engines. However, this introduces new challenges in understanding the processes at the solid-solid contacts ...</em>
+  <h2 style="color: #910f0f">The Impact of Realism and AI Disclosure on Virtual Influencer Effectiveness: A Large Field Experiment</h2>
+  <em>Influencer marketing has become an essential component for brand strategies, and the adoption of AI-generated virtual influencers is accelerating with advancements in generative AI. However, these emerging practices raise challenges related to transparency and ethical concerns. By conducting a large field experiment involving over 1.8 million consumers, we examine the interplay between virtual influencers’ anthropomorphism levels and the disclosure of their AI identity. The results show that virtual influencers with higher anthropomorphism levels enhance engagement metrics, while AI identity disclosure reduces link clicks and three-second video plays, particularly for highly realistic virtual influencers. Our underlying mechanism analysis based on an online experiment reveals that this reduction is driven by “expectation violation effect”, where disclosure violates consumers’ expectations and evokes negative feelings. Importantly, the negative effects reverse for consumers with prior experience interacting with virtual influencers—among this group, highly realistic virtual influencers with disclosure actually lead to greater engagement than their less anthropomorphic counterparts. Our findings provide theoretical and practical insights into the design and development of AI agents, emphasizing the need to strategically manage anthropomorphism and transparency to optimize consumer engagement. <img width="468" height="382" alt="image" src="https://github.com/user-attachments/assets/6751b90b-89f3-468e-aeba-8374411766cd" />
+</em>
   
   <p style="margin-bottom: 0.2em; font-size: 0.9em;" markdown="1">
 
-  Cangyu Qu, Lu Fang, Robert W. Carpick<sup>*</sup>. **Contact Mechanics Correction of Activation Volumes in Mechanochemistry**. _Phys. Rev. B_ 111, 195405 (2025) | [paper link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.195405)
+  Meixian Wang, Jaehwuen Jung, Ravi Bapna. **The Impact of Realism and AI Disclosure on Virtual Influencer Effectiveness: A Large Field Experiment.** | [paper link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202630)
   </p>
 
   <details style="border-left: 4px solid #999; background: #f7f7f7; padding: 0.4em 0.4em; font-size: 0.8em;">
