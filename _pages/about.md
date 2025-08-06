@@ -39,7 +39,7 @@ Working Papers
 ======
 * Meixian Wang, Jaehwuen Jung, Ravi Bapna “The Impact of Realism and AI Disclosure on Virtual Influencer Effectiveness: A Large Field Experiment”
   Invited for 2nd round review at Information Systems Research – Job Market Paper.
-  Conference presentations: PlatStrat2024, CIST 2024, INFORMS 2025
+  ** Conference presentations: PlatStrat2024, CIST 2024, INFORMS 2025
   
 * Meixian Wang, Keran Zhao, Jason Bennett Thatcher. “The Impact of Superstar Exits on Live Streaming E-Commerce Platforms.”
   Invited for 2nd round review at Journal of the Association for Information Systems.
