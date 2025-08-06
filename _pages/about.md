@@ -44,18 +44,22 @@ Working Papers
   
 * Meixian Wang, Keran Zhao, Jason Bennett Thatcher. “The Impact of Superstar Exits on Live Streaming E-Commerce Platforms.”
   Invited for 2nd round review at Journal of the Association for Information Systems.
+
   Conference presentations: WITS 2022 (Best paper nomination).
   
 * Meixian Wang, Keran Zhao, Sunil Wattal “When Prosocial Opportunities Collide: Tipping vs. Charity on Digital Platforms”
   Under Review at Information Systems Research.
+
   Conference presentations: WISE 2024
   
 * Meixian Wang, Jaehwuen Jung. “Personalization–Privacy Tradeoffs and AI Identity Disclosure: Evidence from a Large-Scale Field Experiment with Hyper-Realistic AI Agents.”
   Field experiment and data analysis in progress.
+
   Conference presentations: ACR 2025
   
 * Meixian Wang, Keren Zhao Jason Bennett Thatcher. “AI versus Human? Investigating the heterogeneous effect of online shopping live streamers.”
   Data analysis and draft.
+
   Conference presentations: AMCIS 2022, INFORMS 2024, WITS 2024
 
 Honors and Awards
