@@ -1,5 +1,5 @@
 ---
-permalink: /non-menu-page/
+permalink: /nmp/
 title: " "
 author_profile: true
 redirect_from: 
