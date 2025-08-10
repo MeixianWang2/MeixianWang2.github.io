@@ -1,7 +1,7 @@
 ---
 title: "TA Experience — Web Analytics"
 collection: teaching
-type: "graduate Course"
+type: "Graduate Course"
 permalink: "/teaching/2020-fall-mis2052-data-analytics/"
 venue: "University of Connecticut, OPIM Department"
 date: "2020-08-01"
