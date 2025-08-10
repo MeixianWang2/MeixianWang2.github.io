@@ -1,19 +1,16 @@
 ---
-title: "Teaching experience"
+title: "Teaching Experience"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2024-fall-teaching-MIS 2052 Data Analytics
-venue: "Temple University, MIS Department"
-date: 2024-08-26 to 2024-12-06
-location: "Philadelphia, USA"
+type: "Undergraduate Course"
+permalink: "/teaching/2024-fall-teaching-mis2052-data-analytics/"
+venue: "University of connecticut, OPIM Department"
+start_date: "2020-08"
+end_date: "2020-12"
+location: "Hartford, USA"
 ---
 
+## Course Description
+The course provides introduction to key concepts, techniques, and tools for analyzing web data to derive actionable customer intelligence, develop digital marketing strategies and evaluate their impacts. Clickstream tracking, search engine analytics, digital experiments, and social analytics.
 
-Course Description
-======
-The course provides a foundation for **designing database systems** and **analyzing business data** to enhance firm competitiveness. Concepts introduced in this course aim to develop an understanding of the different types of business data, various analytical approaches, and the application of these approaches to solve business problems. Students will have hands-on experience with current, cutting-edge tools such as **MySQL and Python** and with practical projects (e.g., database design, data visualization, introductory machine learning). 
-
-Teaching Philosopgy
-======
-I believe in **the transformative power of Information Technology** and **data-driven decision-making** to address challenging business and societal problems. My goal is to equip all students in my class with the skills and mindset to use IT effectively and make informed decisions that drive success in their careers and personal lives. To achieve this, my teaching is guided by four key principles: **sparking curiosity**, **enhancing the learning experience**, **fostering open feedback**, and **promoting inclusion and diversity**.
+## My responsibility
 
