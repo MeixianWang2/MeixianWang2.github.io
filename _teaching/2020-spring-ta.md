@@ -1,5 +1,5 @@
 ---
-title: "Teaching Experience"
+title: "TA Experience"
 collection: teaching
 type: "Undergraduate Course"
 permalink: "/teaching/2024-fall-teaching-mis2052-data-analytics/"
