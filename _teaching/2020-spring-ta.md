@@ -4,6 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: "/teaching/2024-fall-teaching-mis2052-data-analytics/"
 venue: "University of connecticut, OPIM Department"
+date: "2020-08-01"    
 term: "Fall 2020"
 location: "Hartford, USA"
 ---
