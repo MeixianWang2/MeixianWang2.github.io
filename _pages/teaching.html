@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 {% include base_path %}
-{{ post.date | date: "%Y" }}
+
 {% for post in site.teaching reversed %}
+  {{ post.start_date | date: "%Y-%m-%d" }} – {{ post.end_date | date: "%Y-%m-%d" }}
   {% include archive-single.html %}
 {% endfor %}
