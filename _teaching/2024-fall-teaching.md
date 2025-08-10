@@ -4,8 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: "/teaching/2024-fall-teaching-mis2502-data-analytics/"
 venue: "Temple University, MIS Department"
-start_date: "2024-08-26"
-end_date: "2024-12-06"
+term: "Fall 2024" 
 location: "Philadelphia, USA"
 ---
 
