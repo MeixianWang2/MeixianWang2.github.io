@@ -28,7 +28,7 @@ At Temple University, I have served as both a teaching assistant and an instruct
   |--------------------|---------------|---------------|----------------|-------------|-------------|---------------|-----------|
   | 32 / 54            | 59.3%         | 4.6           | 5              | 0.75        | 4.4         | 4.5           | 0.8       |
 
-  <img width="600" height="80" alt="image" src="https://github.com/user-attachments/assets/76455908-1431-4ed7-9df4-fed2c08b838c" />
+  <img width="800" height="100" alt="image" src="https://github.com/user-attachments/assets/76455908-1431-4ed7-9df4-fed2c08b838c" />
 
   **Student Testimonials from Official Teaching Evaluations**  
 
