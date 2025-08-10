@@ -9,11 +9,33 @@ location: "Philadelphia, USA"
 ---
 
 
-Course Description
-======
-The course provides a foundation for **designing database systems** and **analyzing business data** to enhance firm competitiveness. Concepts introduced in this course aim to develop an understanding of the different types of business data, various analytical approaches, and the application of these approaches to solve business problems. Students will have hands-on experience with current, cutting-edge tools such as **MySQL and Python** and with practical projects (e.g., database design, data visualization, introductory machine learning). 
+**Teaching Overview **
+At Temple University, I have served as both a teaching assistant and an instructor across multiple semesters. These opportunities have enabled me to develop and refine my pedagogical skills, affirming my commitment to and passion for teaching.
 
-Teaching Philosopgy
-======
-I believe in **the transformative power of Information Technology** and **data-driven decision-making** to address challenging business and societal problems. My goal is to equip all students in my class with the skills and mindset to use IT effectively and make informed decisions that drive success in their careers and personal lives. To achieve this, my teaching is guided by four key principles: **sparking curiosity**, **enhancing the learning experience**, **fostering open feedback**, and **promoting inclusion and diversity**.
+**Teaching Experience **
+• Instructor, MIS 2502, Data Analytics, Fall 2024 
+➢	Course Contents 
+✓	Designed and implemented database systems using MySQL; taught data querying and analysis using Python; covered core machine learning techniques including decision trees, clustering, and association rule mining.
+➢	Responsibility 
+✓	Developed syllabus, delivered lectures, created assignments and exams, and managed grading. 
+✓	Course website: https://community.mis.temple.edu/mis2502sec003fall2024/
+       ➢ Quantitative Teaching Evaluations 
+ 	 	 	 	Teaching* 			Course* 	
+Responded/Invited 	Response Ratio 	Mean     Median	SD	Mean 	Median 	SD 
+32/54 	59.3% 	    4.6 	   5	0.75	4.4 	 4.5	 0.8
+<img width="468" height="68" alt="image" src="https://github.com/user-attachments/assets/76455908-1431-4ed7-9df4-fed2c08b838c" />
 
+➢ Student Testimonials from Official Teaching Evaluations 
+•	Engaging Teaching Style
+“Professor Wang is a great teacher—she’s excellent!”
+“Her explanations were clear, and she made complex topics understandable.”
+•	Accessibility & Support
+“She was always willing to answer questions, both in class and during office hours.”
+“One of my favorite professors this semester—very helpful and approachable.”
+•	Inclusivity
+“She created a welcoming environment for all students, regardless of background.”
+“Very respectful and inclusive. Never made anyone feel unwelcome.”
+•	In-Class Activities (ICAs)
+“The ICAs were the most useful part—they helped me apply concepts immediately.”
+“Loved how the professor walked us through each activity step-by-step.”
+<img width="468" height="575" alt="image" src="https://github.com/user-attachments/assets/15f35d11-456b-4da2-8fef-2454996159a4" />
