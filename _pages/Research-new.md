@@ -8,14 +8,14 @@ redirect_from:
 
 <div style="width:100%; line-height:1.5; margin: 0 0 1.5em 0; text-align:justify;" markdown="1">
 
-
+## <span style="color:#910f0f">Paper Under Review</span>
 
 <!-- Paper 1 -->
 ## <span style="color:#910f0f">The Impact of Realism and AI Disclosure on Virtual Influencer Effectiveness: A Large Field Experiment</span>
 
 <p style="margin-bottom:0.4em; font-size:0.95em;" markdown="1">
 **Meixian Wang, Jaehwuen Jung, Ravi Bapna.**  
-[Paper link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202630)｜Major Revision at ISR|Job Market Paper
+[Paper link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202630) ｜Major Revision at ISR|Job Market Paper
 </p>
 
 <details style="border-left:4px solid #999; background:#f7f7f7; padding:0.6em; font-size:0.9em;">
@@ -33,6 +33,7 @@ redirect_from:
 
 <p style="margin-bottom:0.4em; font-size:0.95em;" markdown="1">
 **Meixian Wang, Keran Zhao, Jason Bennett Thatcher.**
+  Major revision at JAIS
 </p>
 
 <details style="border-left:4px solid #999; background:#f7f7f7; padding:0.6em; font-size:0.9em;">
@@ -50,6 +51,7 @@ redirect_from:
 
 <p style="margin-bottom:0.4em; font-size:0.95em;" markdown="1">
 **Meixian Wang, Keran Zhao, Sunil Wattal.**
+  Under Review at ISR
 </p>
 
 <details style="border-left:4px solid #999; background:#f7f7f7; padding:0.6em; font-size:0.9em;">
