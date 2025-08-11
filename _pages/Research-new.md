@@ -29,16 +29,16 @@ redirect_from:
 
 
 
-  <h2 style="color: #910f0f">Nanomechanics & 2D materials</h2>
-  <em>Nanomaterials, including 2-dimensonal (2D) materials with single- to few-atoms thickness, often exhibit novel and unique mechanical behaviors different from their bulk counterparts. Understanding their strength, flexibility, and failure modes is key to advancing a variety of relevant applications including next-generation electronics, coatings, and devices. However, due to the tiny length sclaes involved, it often requires advanced tools and clever experimental design ...</em>
+  <h2 style="color: #910f0f">When Prosocial Opportunities Collide: Tipping vs. Charity on Digital Platforms</h2>
+  <em></em>
   <p style="margin-bottom: 0.2em; font-size: 0.9em;" markdown="1"> 
-
-  Luc N. Capaldi, Li Yuan, Cangyu Qu, Daniel A. Sánchez, Robert W. Carpick<sup>*</sup>, Ottman A. Tertuliano<sup>*</sup>. **High-Throughput Formation of 3D van der Waals Auto-Kirigami**. _Nano Lett._ 25(11), 3964 (2025) | [paper link](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.4c06637) | [Penn Engineering Today](https://blog.seas.upenn.edu/knowing-when-to-bend-or-break-penn-engineers-examine-the-fracture-mechanics-of-3d-graphene-structures/)
+  Meixian Wang, Keran Zhao, Jason Bennett Thatcher. **The Impact of Superstar Exits on Live Streaming E-Commerce Platforms.** | 
   </p>
   <details style="border-left: 4px solid #999; background: #f7f7f7; padding: 0.4em 0.4em; font-size: 0.8em;">
     <summary style="font-size: 1em;"><strong> Summary</strong></summary>
     <p style="margin-bottom: 0.4em">
-      This study introduces a novel, high-throughput method to create three-dimensional structures from two-dimensional materials like graphene. By leveraging a process called "auto-kirigami," we create fold and fracture of 2D materials into intricate 3D shapes without manual intervention. This advancement opens new avenues for designing flexible and responsive nanoscale devices.
+      As digital platforms integrate prosocial features into their monetization strategies, creators face a critical trade-off between sustaining income and engaging in altruistic initiatives. We study this tension in the context of Twitch’s built-in charity tool, using a quasi-experimental design based on the 2023 “Together for Good” campaign. Drawing on multi-level panel data comprising 10,704 streamer-day and 672,452 viewer–streamer–day observations, we implement difference-in-differences estimation with propensity score matching. We find that charity streams trigger short-term substitution: direct tipping declines on charity streams. However, this is followed by a long-term generosity spillover, as tipping increases in subsequent non-charity streams. Viewer-level analyses uncover a dual mechanism: active tippers reallocate spending away from tipping during charity events, while new or previously inactive viewers are more likely to initiate tipping to a streamer after exposure to the streamer’s charity events. Our study advances understanding of how platform-integrated prosocial tools reshape financial support patterns in the creator economy, offering design implications for balancing monetization and social impact.<img width="468" height="373" alt="image" src="https://github.com/user-attachments/assets/650efe2f-38e5-41c0-acfe-a64d27d79fb9" />
+
     </p>
     <img src="/images/LucNL.png" alt="tit" width="350" style="display: block; margin: 0.4em auto;" />
   </details>
@@ -46,7 +46,8 @@ redirect_from:
 
   <p style="margin-top: 1.5em; margin-bottom: 0.2em; font-size: 0.9em;" markdown="1">
 
-  Cangyu Qu<sup>*</sup>, Diwei Shi, Li Chen, Zhanghui Wu, Jin Wang, Songlin Shi, Enlai Gao, Zhiping Xu, Quanshui Zheng<sup>*</sup>. **Anisotropic Fracture of Graphene Revealed by Surface Steps on Graphite**. _Phys. Rev. Lett_ 129, 026101 (2022) | [paper link](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.026101)
+  Meixian Wang, Keran Zhao, Jason Bennett Thatcher. 
+ **The Impact of Superstar Exits on Live Streaming E-Commerce Platforms.**. 
   </p>
   <details style="border-left: 4px solid #999; background: #f7f7f7; padding: 0.4em 0.4em; font-size: 0.8em;">
     <summary style="font-size: 1em;"><strong> Summary</strong></summary>
