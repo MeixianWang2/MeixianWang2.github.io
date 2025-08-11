@@ -1,4 +1,4 @@
----
+<img width="468" height="373" alt="image" src="https://github.com/user-attachments/assets/5554b029-0dcf-4a68-9f7e-bec158d5914b" />---
 permalink: /nmp/
 title: "Working Papers"
 author_profile: true
@@ -76,7 +76,8 @@ Under Review at ISR
 <details style="border-left:4px solid #999; background:#f7f7f7; padding:0.6em; font-size:0.9em;">
   <summary style="font-size:1em;"><strong>Summary</strong></summary>
   <p style="margin:0.4em 0;">
-    This project studies how personalization intensity (e.g., tailored scripts, imagery, and recommendations) interacts with AI identity disclosure for hyper-realistic agents in customer-facing campaigns. The field experiment randomizes (i) personalization level and (ii) disclosure timing/wording across large audience cohorts to measure effects on engagement (clicks, watch time), downstream actions (sign-ups, purchases), and privacy-sensitive behaviors (opt-outs, report/skip rates). We test whether transparency dampens response at high personalization due to perceived “creepiness” or expectation violation, and whether trust cues (safety badges, data-use notices) mitigate that tradeoff. Heterogeneity analyses focus on prior AI exposure, product involvement, and user privacy preferences, with mediation via perceived trust and relevance collected from follow-up surveys.
+   The rapid advancement of generative AI has fueled the rise of hyper-realistic AI agents—virtual entities capable of delivering highly personalized, human-like interactions at scale. While these agents present exciting opportunities for enhancing consumer engagement, they also raise complex challenges related to trust, transparency, and data privacy. To investigate these tensions, we propose a large-scale field experiment involving 10,000 consumers of a startup. We manipulate two key design factors in the AI agents’ promotional videos: the level of service personalization and whether the agent’s artificial identity is disclosed. Drawing on dual-process, expectation-violation, and privacy calculus theories, we hypothesize that while personalization increases engagement, identity disclosure may undermine it. By exploring the interaction between these factors, we aim to uncover the mechanisms underlying consumer cognitive perception. Our findings contribute to the literature on AI agents and the personalization-privacy paradox, providing practical guidance for brands seeking to deploy hyper-realistic AI agents responsibly and effectively.
+
   </p>
 </details>
 
@@ -90,7 +91,8 @@ Under Review at ISR
 <details style="border-left:4px solid #999; background:#f7f7f7; padding:0.6em; font-size:0.9em;">
   <summary style="font-size:1em;"><strong>Summary</strong></summary>
   <p style="margin:0.4em 0;">
-    We compare sales and engagement performance between AI-generated and human live streamers on commerce platforms and examine when each excels. The study links stream-level outcomes (traffic, conversion, AOV, return rates) with streamer identity and content features (script structure, sentiment, pace) plus product attributes (search vs. experience goods, price points) and audience composition. Using quasi-experimental variation (schedule rotations, product assignments) and panel models with fixed effects, we estimate heterogeneous treatment effects by category risk, novelty, and viewer tenure. We also explore mechanisms—credibility/trust vs. consistency/availability—via text and voice analyses and post-stream surveys.
+    Live Streaming E-commerce (LSE) is a new format that embeds live streaming into e-commerce, where streamers sell products and interact with viewers in synchrony. Many stores have launched LSE channels to attract traffic and increase sales. As competition for effective human streamers is intense, platform owners have developed artificial intelligence (AI) streamers as an alternative. However, it is unclear whether human or AI streamers are more effective at engaging viewers and selling products. Drawing on media synchronicity theory, we develop a research model that examines the differences between human and AI streamers. We report tests of our model using observational data from Taobao Live. We conducted an online experiment to evaluate the underlying mechanisms that explain the performance differences between human and AI streamers. Our study provides insights for platforms and store owners seeking to better utilize AI technology to sell products, and for designers interested in developing more effective AI streamers.
+
   </p>
 </details>
 
