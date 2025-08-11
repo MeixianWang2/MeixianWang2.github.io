@@ -33,7 +33,7 @@ redirect_from:
 
 <p style="margin-bottom:0.4em; font-size:0.95em;" markdown="1">
 **Meixian Wang, Keran Zhao, Jason Bennett Thatcher.**
-  Major revision at JAIS
+Major revision at JAIS
 </p>
 
 <details style="border-left:4px solid #999; background:#f7f7f7; padding:0.6em; font-size:0.9em;">
@@ -51,7 +51,7 @@ redirect_from:
 
 <p style="margin-bottom:0.4em; font-size:0.95em;" markdown="1">
 **Meixian Wang, Keran Zhao, Sunil Wattal.**
-  Under Review at ISR
+Under Review at ISR
 </p>
 
 <details style="border-left:4px solid #999; background:#f7f7f7; padding:0.6em; font-size:0.9em;">
@@ -59,7 +59,6 @@ redirect_from:
   <p style="margin:0.4em 0;">
     As platforms integrate prosocial features, creators face a trade-off between monetization and altruism. Using Twitch’s built-in charity tool and a quasi-experimental design around the 2023 “Together for Good” campaign, we analyze 10,704 streamer-day and 672,452 viewer–streamer–day observations. Charity streams cause short-term substitution (direct tipping falls during charity streams) but generate a longer-term generosity spillover (tipping rises in subsequent non-charity streams). Mechanistically, active tippers reallocate spending away from tipping during charity events, while new or previously inactive viewers become more likely to initiate tipping after exposure to a streamer’s charity activities. The results inform platform design that balances revenue with social impact.
   </p>
-  <img src="https://github.com/user-attachments/assets/650efe2f-38e5-41c0-acfe-a64d27d79fb9" alt="Prosocial trade-off graphic" width="468" style="display:block; margin:0.6em auto;" />
 </details>
 
 ---
@@ -75,15 +74,5 @@ redirect_from:
 
 ---
 
-## <span style="color:#910f0f">At-a-Glance</span>
-
-- **Virtual Influencer Realism & Disclosure (Job Market Paper):** Invited for 2nd-round review at *Information Systems Research*.  
-  Conferences: PlatStrat 2024, CIST 2024, INFORMS 2025
-
-- **Superstar Exits (Live Streaming E-commerce):** Invited for 2nd-round review at *Journal of the Association for Information Systems*.  
-  Conferences: WITS 2022 (*Best Paper* nomination)
-
-- **Tipping vs. Charity:** Under review at *Information Systems Research*.  
-  Conferences: WISE 2024
 
 </div>
