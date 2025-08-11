@@ -14,7 +14,7 @@ redirect_from:
 ## <span style="color:#910f0f">The Impact of Realism and AI Disclosure on Virtual Influencer Effectiveness: A Large Field Experiment</span>
 
 <p style="margin-bottom:0.4em; font-size:0.95em;" markdown="1">
-**Meixian Wang, Jaehwuen Jung, Ravi Bapna.**  
+*Meixian Wang, Jaehwuen Jung, Ravi Bapna.*
 [Paper link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202630) ｜Major Revision at ISR|Job Market Paper
 </p>
 
@@ -32,7 +32,7 @@ redirect_from:
 ## <span style="color:#910f0f">The Impact of Superstar Exits on Live Streaming E-Commerce Platforms</span>
 
 <p style="margin-bottom:0.4em; font-size:0.95em;" markdown="1">
-**Meixian Wang, Keran Zhao, Jason Bennett Thatcher.**
+*Meixian Wang, Keran Zhao, Jason Bennett Thatcher.*
 Major revision at JAIS
 </p>
 
@@ -51,7 +51,7 @@ Major revision at JAIS
 ## <span style="color:#910f0f">When Prosocial Opportunities Collide: Tipping vs. Charity on Digital Platforms</span>
 
 <p style="margin-bottom:0.4em; font-size:0.95em;" markdown="1">
-**Meixian Wang, Keran Zhao, Sunil Wattal.**
+*Meixian Wang, Keran Zhao, Sunil Wattal.*
 Under Review at ISR
 </p>
 
