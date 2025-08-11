@@ -69,17 +69,7 @@ redirect_from:
 
 
  
-  <p style="margin-top: 1.5em; margin-bottom: 0.2em; font-size: 0.9em;" markdown="1"> 
-
-  Kunqi Wang, Cangyu Qu<sup>*</sup>, Jin Wang, Baogang Quan, Quanshui Zheng<sup>*</sup>. **Origin of Friction in Superlubric Graphite Contacts**. _Phys. Rev. Lett._ 125(2), 026101 (2020). (Editors' Suggestion)| [paper link](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.026101)
-  </p>
-  <details style="border-left: 4px solid #999; background: #f7f7f7; padding: 0.4em 0.4em; font-size: 0.8em;">
-    <summary style="font-size: 1em;"><strong> Summary</strong></summary>
-    <p style="margin-bottom: 0.4em">
-      Directly characterizing both surfaces of a solid-solid contact is essential but challenging at the nano- and microscale. Using a new "pick-and-flip" technique, we reveal the hidden interfaces in superlubric contacts. We confirm that superlubricity arises from two misaligned crystalline surfaces and show that its failure is caused by external defects—explaining why only some contacts exhibit superlubricity and guiding the design of ultra-low-friction systems.
-    </p>
-    <img src="/images/pick-n-flip.png" alt="tit" width="230" style="display: block; margin: 0.4em auto;" />
-  </details>
+  
 
 <br>
 
