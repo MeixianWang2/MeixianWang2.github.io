@@ -15,7 +15,7 @@ redirect_from:
 
 <p style="margin-bottom:0.4em; font-size:0.95em;" markdown="1">
 *Meixian Wang, Jaehwuen Jung, Ravi Bapna.*
-[Paper link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202630) ｜Major Revision at ISR|Job Market Paper
+[Paper link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202630) ｜Major Revision at ISR ｜Job Market Paper
 </p>
 
 <details style="border-left:4px solid #999; background:#f7f7f7; padding:0.6em; font-size:0.9em;">
