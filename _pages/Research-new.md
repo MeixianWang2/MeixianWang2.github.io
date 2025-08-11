@@ -29,7 +29,7 @@ redirect_from:
 
 
 
-  <h2 style="color: #910f0f">When Prosocial Opportunities Collide: Tipping vs. Charity on Digital Platforms</h2>
+  <h2 style="color: #910f0f">The Impact of Superstar Exits on Live Streaming E-Commerce Platforms</h2>
   <em></em>
   <p style="margin-bottom: 0.2em; font-size: 0.9em;" markdown="1"> 
   Meixian Wang, Keran Zhao, Jason Bennett Thatcher. **The Impact of Superstar Exits on Live Streaming E-Commerce Platforms.** | 
@@ -46,38 +46,13 @@ redirect_from:
 
   <p style="margin-top: 1.5em; margin-bottom: 0.2em; font-size: 0.9em;" markdown="1">
 
-  Meixian Wang, Keran Zhao, Jason Bennett Thatcher. 
- **The Impact of Superstar Exits on Live Streaming E-Commerce Platforms.**. 
-  </p>
-  <details style="border-left: 4px solid #999; background: #f7f7f7; padding: 0.4em 0.4em; font-size: 0.8em;">
-    <summary style="font-size: 1em;"><strong> Summary</strong></summary>
-    <p style="margin-bottom: 0.4em">
-      Graphene, a one-atom-thick sheet of carbon atoms, is renowned for its exceptional strength. But its resistance to fracture isn't uniform in all directions. By examining the atomic-scale surface features left behind after fracture, we show that graphene cracks more easily along certain orientations. This directional dependence, known as anisotropic fracture, is crucial for the functioning of graphene-based devices and relevant to a unique toughening mechanism in 2D materials.
-    </p>
-    <img src="/images/aniso.png" alt="tit" width="320" style="display: block; margin: 0.4em auto;" />
-  </details>
-
-
-  <p style="margin-top: 1.5em; margin-bottom: 0.2em; font-size: 0.9em;" markdown="1">
-
-  Shuji Zhao, Songlin Shi, Kailun Xia, Tao Wang, Maosheng Chai, Yingying Zhang, Cangyu Qu<sup>*</sup>, Quanshui Zheng<sup>*</sup>. **Scratching of Graphene-Coated Cu Substrates Leads to Hardened Cu Interfaces with Enhanced Lubricity**. _ACS Appl. Nano Mater_ 3(2), 1992 (2020) | [paper link](https://pubs.acs.org/doi/full/10.1021/acsanm.0c00046)
-  </p>
-  <details style="border-left: 4px solid #999; background: #f7f7f7; padding: 0.4em 0.4em; font-size: 0.8em;">
-    <summary style="font-size: 1em;"><strong> Summary</strong></summary>
-    <p style="margin-bottom: 0.4em">
-      Frictional contacts often experience a "running-in" period, where friction decreases due to changes in surface geometry (like roughness) associated with wear. Here, we show that graphene-coated copper also exhibits running-in behavior—but without damaging the graphene. Instead, the friction drop comes from hardening of the copper beneath the coating. This study showcases the excellent anti-wear performance of graphene as a mechanically robust, atomically-thin coating.
-    </p>
-    <img src="/images/wear-free.png" alt="tit" width="300" style="display: block; margin: 0.4em auto;" />
-  </details>
-  
-
-
-  <h2 style="color: #910f0f; margin-bottom: 1em">Superlubricity</h2>
-  <em>Friction and wear contribute to widespread wasted energy and machine failure across different scales. Structural superlubricity achieves near-zero friction and wear without the use of any lubricants. It arises directly from the atomic-scale structures of the surfaces in contact, and is therefore a unique and potentially revolutionary strategy for solving friction and wear problems, particularly on nano- and microscales ...</em>
-  <h3 style="color: #111184">Novel phenomena in superlubricity</h3>
+  <h2 style="color: #910f0f; margin-bottom: 1em">When Prosocial Opportunities Collide: Tipping vs. Charity on Digital Platforms</h2>
+  <em></em>
+ 
   <p style="margin-top: 1.5em; margin-bottom: 0.2em; font-size: 0.9em;" markdown="1"> 
 
-  Cangyu Qu, Songlin Shi, Ming Ma, Quanshui Zheng<sup>*</sup>. **Rotational Instability in Superlubric Joints**. _Phys. Rev. Lett._ 122(24), 246101 (2019)| [paper link](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.246101) | [Highlighted by Nature Materials](https://www.nature.com/articles/s41563-019-0450-0)
+  Meixian Wang, Keran Zhao, Sunil Wattal. 
+ **When Prosocial Opportunities Collide: Tipping vs. Charity on Digital Platforms.**. 
   </p>
   <details style="border-left: 4px solid #999; background: #f7f7f7; padding: 0.4em 0.4em; font-size: 0.8em;">
     <summary style="font-size: 1em;"><strong> Summary</strong></summary>
@@ -90,44 +65,9 @@ redirect_from:
 
   <p style="margin-top: 1.5em; margin-bottom: 0.2em; font-size: 0.9em;" markdown="1"> 
 
-  Cangyu Qu, Wei Cao, Bingtong Liu, Anle Wang, Fankai Xie, Ming Ma, Wenzhe Shan, Michael Urbakh, Quanshui Zheng<sup>*</sup>. **Direct Measurement of Adhesions of Liquids on Graphite**. _J. Phys. Chem. C_, 123(18), 11671 (2019)| [paper link](https://pubs.acs.org/doi/full/10.1021/acs.jpcc.9b00900)
-  </p>
-  <details style="border-left: 4px solid #999; background: #f7f7f7; padding: 0.4em 0.4em; font-size: 0.8em;">
-    <summary style="font-size: 1em;"><strong> Summary</strong></summary>
-    <p style="margin-bottom: 0.4em">
-      Graphite and other 2D materials interact with liquids in ways crucial for sensors, coatings, and energy devices, but their adhesion is hard to measure. This study introduces a new method, directly enabled by the near-frictionless nature of superlubricity, to measure how strongly liquids adhere to graphite using tiny self-retracting graphite flakes. The approach offers a novel and reliable way to study liquid–2D material interactions.
-    </p>
-    <img src="/images/graphite-liquid.png" alt="tit" width="320" style="display: block; margin: 0.4em auto;" />
-  </details>
 
 
 
-  <h3 style="color: #111184">Fundamental mechanisms of superlubricity</h3>
-  <p style="margin-top: 1.5em; margin-bottom: 0.2em; font-size: 0.9em;" markdown="1"> 
-
-  Dinglin Yang, Cangyu Qu<sup>*</sup>, Yujie Gongyang, Quanshui Zheng<sup>*</sup>. **Manipulation and Characterization of Submillimeter Shearing Contacts in Graphite by the Micro-Dome Technique**. _ACS Appl. Mater. Interfaces_ 15(37), 44563 (2023) | [paper link](https://pubs.acs.org/doi/full/10.1021/acsami.3c09941)
-  </p>
-  <details style="border-left: 4px solid #999; background: #f7f7f7; padding: 0.4em 0.4em; font-size: 0.8em;">
-    <summary style="font-size: 1em;"><strong> Summary</strong></summary>
-    <p style="margin-bottom: 0.4em">
-      This study introduces a "micro-dome" technique to slide and study submillimeter-scale graphite contacts for exploring superlubricity—a state of near-zero friction. The method enables access to much larger (x2500) interfaces than previously possible and reveals structural features that limit frictionless motion, offering insights and experimental tools for scaling superlubricity up in layered materials.
-    </p>
-    <img src="/images/microdome.png" alt="tit" width="340" style="display: block; margin: 0.4em auto;" />
-  </details>
-
-
-  <p style="margin-top: 1.5em; margin-bottom: 0.2em; font-size: 0.9em;" markdown="1"> 
-
-  Cangyu Qu, Kunqi Wang, Jin Wang, Yujie Gongyang, Robert W. Carpick, Michael Urbakh, Quanshui Zheng<sup>*</sup>. **Origin of Friction in Superlubric Graphite Contacts**. _Phys. Rev. Lett._ 125(12), 126102 (2020) | [paper link](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.126102)
-  </p>
-  <details style="border-left: 4px solid #999; background: #f7f7f7; padding: 0.4em 0.4em; font-size: 0.8em;">
-    <summary style="font-size: 1em;"><strong> Summary</strong></summary>
-    <p style="margin-bottom: 0.4em">
-      Classical theories of superlubricity consider ideal, infinitely-large contacts. Here, fore real superlubric contacts, we decoupled the friction contributions from the contact area and the contact edges. We found that the tiny residual friction in superlubricity originates from the edges: each edge atom contributes >10,000 times more friction than an atom inside the contact. These results, along with a derived scaling law, provide clear guidance for designing large-scale, ultra-low-friction interfaces.
-    </p>
-    <img src="/images/origin.png" alt="tit" width="230" style="display: block; margin: 0.4em auto;" />
-  </details>
- 
  
   <p style="margin-top: 1.5em; margin-bottom: 0.2em; font-size: 0.9em;" markdown="1"> 
 
@@ -142,6 +82,4 @@ redirect_from:
   </details>
 
 <br>
-<h1>Complete Publication List</h1>
-  Complete publication list can be found in [my CV](/files/CV_Cangyu Qu.pdf) or [my Google Scholar profile](https://scholar.google.com/citations?user=fSUo-qEAAAAJ&hl=en&oi=ao).
-</div>
+
