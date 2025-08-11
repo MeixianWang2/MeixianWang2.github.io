@@ -66,11 +66,32 @@ Under Review at ISR
 <!-- Pipeline / additional projects -->
 ## <span style="color:#910f0f">In Progress & Other Projects</span>
 
-- **Personalization–Privacy Tradeoffs and AI Identity Disclosure: Evidence from a Large-Scale Field Experiment with Hyper-Realistic AI Agents**  
-  *Meixian Wang, Jaehwuen Jung.* Field experiment & data analysis in progress. (Presented at ACR 2025)
+<!-- Project A -->
+### Personalization–Privacy Tradeoffs and AI Identity Disclosure: Evidence from a Large-Scale Field Experiment with Hyper-Realistic AI Agents
+<p style="margin-bottom:0.4em; font-size:0.95em;" markdown="1">
+*Meixian Wang, Jaehwuen Jung.* Field experiment & data analysis in progress. (Presented at ACR 2025)
+</p>
+<details style="border-left:4px solid #999; background:#f7f7f7; padding:0.6em; font-size:0.9em;">
+  <summary style="font-size:1em;"><strong>Summary</strong></summary>
+  <p style="margin:0.4em 0;">
+    This project studies how personalization intensity (e.g., tailored scripts, imagery, and recommendations) interacts with AI identity disclosure for hyper-realistic agents in customer-facing campaigns. The field experiment randomizes (i) personalization level and (ii) disclosure timing/wording across large audience cohorts to measure effects on engagement (clicks, watch time), downstream actions (sign-ups, purchases), and privacy-sensitive behaviors (opt-outs, report/skip rates). We test whether transparency dampens response at high personalization due to perceived “creepiness” or expectation violation, and whether trust cues (safety badges, data-use notices) mitigate that tradeoff. Heterogeneity analyses focus on prior AI exposure, product involvement, and user privacy preferences, with mediation via perceived trust and relevance collected from follow-up surveys.
+  </p>
+</details>
 
-- **AI versus Human? Investigating the Heterogeneous Effect of Online Shopping Live Streamers**  
-  *Meixian Wang, Keren Zhao, Jason Bennett Thatcher.* Data analysis & draft. (Presented at AMCIS 2022, INFORMS 2024, WITS 2024)
+---
+
+<!-- Project B -->
+### AI versus Human? Investigating the Heterogeneous Effect of Online Shopping Live Streamers
+<p style="margin-bottom:0.4em; font-size:0.95em;" markdown="1">
+*Meixian Wang, Keren Zhao, Jason Bennett Thatcher.* Data analysis & draft. (Presented at AMCIS 2022, INFORMS 2024, WITS 2024)
+</p>
+<details style="border-left:4px solid #999; background:#f7f7f7; padding:0.6em; font-size:0.9em;">
+  <summary style="font-size:1em;"><strong>Summary</strong></summary>
+  <p style="margin:0.4em 0;">
+    We compare sales and engagement performance between AI-generated and human live streamers on commerce platforms and examine when each excels. The study links stream-level outcomes (traffic, conversion, AOV, return rates) with streamer identity and content features (script structure, sentiment, pace) plus product attributes (search vs. experience goods, price points) and audience composition. Using quasi-experimental variation (schedule rotations, product assignments) and panel models with fixed effects, we estimate heterogeneous treatment effects by category risk, novelty, and viewer tenure. We also explore mechanisms—credibility/trust vs. consistency/availability—via text and voice analyses and post-stream surveys.
+  </p>
+</details>
+
 
 ---
 
