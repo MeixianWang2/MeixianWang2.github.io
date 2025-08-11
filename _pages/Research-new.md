@@ -1,4 +1,4 @@
-<img width="468" height="373" alt="image" src="https://github.com/user-attachments/assets/5554b029-0dcf-4a68-9f7e-bec158d5914b" />---
+---
 permalink: /nmp/
 title: "Working Papers"
 author_profile: true
