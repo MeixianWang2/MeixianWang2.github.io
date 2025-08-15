@@ -18,7 +18,7 @@ Meixian (Mei) Wang is a Ph.D. candidate in Information Systems Management at the
 
 Her research lies at the intersection of intelligent systems, digital platforms, and behavioral economics, with a particular focus on prosocial behavior and AI-human interaction in consumer-facing environments. She explores how technologies like hyper-realistic AI agents and platform-integrated donation tools reshape user engagement, trust, and monetization on digital platforms.
 
-Using a combination of large-scale field experiments, quasi-experimental designs, and econometric analysis, Mei investigates the psychological and economic consequences of human-AI collaboration in digital commerce and the creator economy. She has taught and assisted in courses on data and web analytics and is committed to inclusive, student-centered pedagogy. Mei is currently on the 2025–2026 academic job market and aims for a tenure-track assistant professor position.
+Using a combination of large-scale field experiments, quasi-experimental designs, and econometric analysis, Mei investigates the psychological and economic consequences of human-AI collaboration in digital commerce and the creator economy. She has taught and assisted in courses on data and web analytics and is committed to inclusive, student-centered pedagogy. 
 
 Dissertation:
 ======
