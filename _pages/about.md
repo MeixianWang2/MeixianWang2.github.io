@@ -8,9 +8,9 @@ redirect_from:
 ---
 Academic Job Market Candidate | 2025–2026
 ======
-Position Sought: Tenure-Track Assistant Professor in Management Information Systems
-Research Areas: Human–AI Interaction, Hyper-realistic AI Agent, AI Governance
-Availability: I will be attending CIST, INFORMS, WISE, and WITS and welcome the opportunity to meet with search committees.
+* Position Sought: Tenure-Track Assistant Professor in Management Information Systems
+* Research Areas: Human–AI Interaction, Hyper-realistic AI Agent, AI Governance
+* Availability: I will be attending CIST, INFORMS, WISE, and WITS and welcome the opportunity to meet with search committees.
 
 A Short Bio:
 ======
