@@ -6,8 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Academic Job Market Candidate 
-2025–2026
+Academic Job Market Candidate
 ======
 * Position Sought: Tenure-Track Assistant Professor in Management Information Systems
 * Research Areas: Human–AI Interaction, Hyper-realistic AI Agent, AI Governance
