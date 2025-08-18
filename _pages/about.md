@@ -56,7 +56,7 @@ Working Papers
 * Meixian Wang, Keran Zhao, Sunil Wattal “When Prosocial Opportunities Collide: Tipping vs. Charity on Digital Platforms”
   Under Review at Information Systems Research.
 
-  Conference presentations: WISE 2024
+  Conference presentations: WISE 2024, CIST 2025
   
 * Meixian Wang, Jaehwuen Jung. “Personalization–Privacy Tradeoffs and AI Identity Disclosure: Evidence from a Large-Scale Field Experiment with Hyper-Realistic AI Agents.”
   Field experiment and data analysis in progress.
