@@ -46,7 +46,7 @@ Working Papers
 * Meixian Wang, Jaehwuen Jung, Ravi Bapna “The Impact of Realism and AI Disclosure on Virtual Influencer Effectiveness: A Large Field Experiment”
   Invited for 2nd round review at Information Systems Research – Job Market Paper.
 
-  Conference presentations: PlatStrat2024, CIST 2024, INFORMS 2025
+  Conference presentations: PlatStrat2024, CIST 2024, INFORMS 2025, AI@Wharton, AI@NYU
   
 * Meixian Wang, Keran Zhao, Jason Bennett Thatcher. “The Impact of Superstar Exits on Live Streaming E-Commerce Platforms.”
   Invited for 2nd round review at Journal of the Association for Information Systems.
@@ -70,6 +70,7 @@ Working Papers
 
 Honors and Awards
 ======
+* Doctoral Consortium Fellow, CIST (2024, 2025) and Academy of Management CTO Division (2024)
 * 2025 Research Enhancement for Competitive and Accelerated Publishing (RECAP) Award, $2000
 * 2025 Exceptional presentation at the 2025 Graduate Symposium for Research and Creative Works, $100
 * 2024 1st Research Advancement and Impact Seed funding (RAIS) Symposium Award, $2000
