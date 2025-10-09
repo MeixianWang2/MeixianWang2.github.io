@@ -58,7 +58,7 @@ Working Papers
 
   Conference presentations: WISE 2024, CIST 2025
   
-* Meixian Wang, Jaehwuen Jung. “Personalization–Privacy Tradeoffs and AI Identity Disclosure: Evidence from a Large-Scale Field Experiment with Hyper-Realistic AI Agents.”
+* Meixian Wang, Jaehwuen Jung, Stefano Puntoni, Thomas McKinlay “Personalization–Privacy Tradeoffs and AI Identity Disclosure: Evidence from a Large-Scale Field Experiment with Hyper-Realistic AI Agents.”
   Field experiment and data analysis in progress.
 
   Conference presentations: ACR 2025
