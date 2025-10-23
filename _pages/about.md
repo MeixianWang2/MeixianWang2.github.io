@@ -32,8 +32,8 @@ Research Topics:
 ======
 * Social & Economic Impact of Artificial Intelligence
 * Hyper-realistic AI Agent
-* Human-AI collaboration
-* Creator economy and Influencer marketing
+* Human-AI Interaction
+* Creator Economy and Influencer Marketing
 
 Research Methodologies:
 ======
