@@ -31,7 +31,7 @@ Dissertation:
 Research Topics:
 ======
 * Social & Economic Impact of Artificial Intelligence
-* Hyper-realistic AI Agent
+* Hyper-Realistic AI Agent
 * Human-AI Interaction
 * Creator Economy and Influencer Marketing
 
