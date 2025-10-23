@@ -14,7 +14,7 @@ Academic Job Market Candidate
 
 A Short Bio:
 ======
-Meixian (Mei) Wang is a Ph.D. candidate in Information Systems Management at the Fox School of Business, Temple University. Before joining Temple, she earned her master’s degree in Business Analytics and Project Management from the University of Connecticut. Prior to her academic career, Mei accumulated six years of industry experience in the retail industry, working with global brands such as Uniqlo and Adidas in China.
+Meixian (Mei) Wang is a Ph.D. candidate in Information Systems Management at the Fox School of Business, Temple University. Before joining Temple, she earned her master’s degree in Business Analytics and Project Management from the University of Connecticut. Prior to her academic career, Mei accumulated six years of industry experience in the retail industry, working with global brands such as Uniqlo and Adidas.
 
 Her research lies at the intersection of intelligent systems, digital platforms, and behavioral economics, with a particular focus on prosocial behavior and AI-human interaction in consumer-facing environments. She explores how technologies like hyper-realistic AI agents and platform-integrated donation tools reshape user engagement, trust, and monetization on digital platforms.
 
