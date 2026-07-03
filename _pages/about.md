@@ -8,7 +8,7 @@ redirect_from:
 ---
 About me:
 ======
-* Position: Assistant Professor at San José State University
+* Position: Tenure-Track Assistant Professor at San José State University
 * Research Areas: Human–AI Interaction, Hyper-realistic AI Agents, AI Disclosure and Governance, Digital Platforms, Creator Economy
 
 A Short Bio:
