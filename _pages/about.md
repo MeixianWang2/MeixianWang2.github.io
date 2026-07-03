@@ -6,19 +6,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Academic Job Market Candidate
+About me:
 ======
-* Position Sought: Tenure-Track Assistant Professor in Management Information Systems
-* Research Areas: Human–AI Interaction, Hyper-realistic AI Agent, AI Governance
-* Availability: I will be attending CIST, INFORMS, WISE, and WITS and welcome the opportunity to meet with search committees.
+* Position: Assistant Professor at San José State University
+* Research Areas: Human–AI Interaction, Hyper-realistic AI Agents, AI Disclosure and Governance, Digital Platforms, Creator Economy
 
 A Short Bio:
 ======
-Meixian (Mei) Wang is a Ph.D. candidate in Information Systems Management at the Fox School of Business, Temple University. Before joining Temple, she earned her master’s degree in Business Analytics and Project Management from the University of Connecticut. Prior to her academic career, Mei accumulated six years of industry experience in the retail industry, working with global brands such as Uniqlo and Adidas.
+Meixian (Mei) Wang is an Assistant Professor of School of Information Systems & Techonology at San José State University. She received a Ph.D. degree in Information Systems Management at the Fox School of Business, Temple University. Before joining Temple, she earned her master’s degree in Business Analytics and Project Management from the University of Connecticut. Prior to her academic career, Mei accumulated six years of industry experience in the retail industry, working with global brands such as Uniqlo and Adidas.
 
 Her research lies at the intersection of intelligent systems, digital platforms, and behavioral economics, with a particular focus on prosocial behavior and AI-human interaction in consumer-facing environments. She explores how technologies like hyper-realistic AI agents and platform-integrated donation tools reshape user engagement, trust, and monetization on digital platforms.
 
-Using a combination of large-scale field experiments, quasi-experimental designs, and econometric analysis, Mei investigates the psychological and economic consequences of human-AI collaboration in digital commerce and the creator economy. She has taught and assisted in courses on data and web analytics and is committed to inclusive, student-centered pedagogy. 
+Using a combination of large-scale field experiments, quasi-experimental designs, and econometric analysis, she investigates the psychological and economic consequences of human-AI collaboration in digital commerce and the creator economy. She has taught and assisted in courses on data and web analytics and is committed to inclusive, student-centered pedagogy. 
 
 Dissertation:
 ======
