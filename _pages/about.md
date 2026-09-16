@@ -24,8 +24,6 @@ Dissertation:
 **Title**: Essays on Identity, Disclosure, and Engagement in the Creator Economy
 
 * Committee:  Sunil Wattal, Jaehwuen Jung, Konstantin Bauman.
-* Proposal Defense: July 2025
-* PhD Expected: May 2026
 
 Research Topics:
 ======
