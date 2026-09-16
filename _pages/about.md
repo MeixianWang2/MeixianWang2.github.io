@@ -21,7 +21,7 @@ Using a combination of large-scale field experiments, quasi-experimental designs
 
 Dissertation:
 ======
-**Title**: Three Essays on Prosocial Behavior and the AI Agent Disclosure Dilemma in the Digital Economy
+**Title**: Essays on Identity, Disclosure, and Engagement in the Creator Economy
 
 * Committee:  Sunil Wattal, Jaehwuen Jung, Konstantin Bauman.
 * Proposal Defense: July 2025
