@@ -49,20 +49,20 @@ Working Papers
   Invited for 3rd round review at Information Systems Research – Job Market Paper.
 
   Conference presentations: PlatStrat2024, CIST 2024, INFORMS 2025, AI@Wharton, AI@NYU
-  
-* Meixian Wang, Xincheng Ma, Jaehwuen Jung. “Whose Face, Whose Words: Field Experiments on AI Disclosure Labels for Synthetic Presenters.” Preparing for submission to Information Systems Research.
-
-  Conference presentations: CIST 2026
 
 * Meixian Wang, Keran Zhao, Sunil Wattal “When Prosocial Opportunities Collide: Tipping vs. Charity on Digital Platforms”
   Preparing for submission at MIS Quarterly.
 
   Conference presentations: WISE 2024, CIST 2025
   
+* Meixian Wang, Xincheng Ma, Jaehwuen Jung. “Whose Face, Whose Words: Field Experiments on AI Disclosure Labels for Synthetic Presenters.” Preparing for submission to Information Systems Research.
+
+  Conference presentations: CIST 2026
+  
 * Meixian Wang, Jaehwuen Jung, Stefano Puntoni, Thomas McKinlay “Personalization–Privacy Tradeoffs and AI Identity Disclosure: Evidence from a Large-Scale Field Experiment with Hyper-Realistic AI Agents.”
   Field experiment and data analysis in progress.
 
-  Conference presentations: ACR 2025
+  Conference presentations: DSI 2026
   
 * Meixian Wang, Keren Zhao Jason Bennett Thatcher. “AI versus Human? Investigating the heterogeneous effect of online shopping live streamers.”
   Data analysis and draft.
