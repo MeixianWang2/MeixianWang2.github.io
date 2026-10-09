@@ -14,7 +14,7 @@ redirect_from:
 
 <p style="margin-bottom:0.4em; font-size:0.95em;" markdown="1">
 *Meixian Wang, Keran Zhao, Jason Bennett Thatcher.*
-Major revision at JAIS
+Forthcoming at JAIS
 </p>
 
 <details style="border-left:4px solid #999; background:#f7f7f7; padding:0.6em; font-size:0.9em;">
@@ -55,9 +55,6 @@ Major revision at JAIS
 
 ---
 
-
-
----
 
 <!-- Paper 3 -->
 ## <span style="color:#910f0f">When Prosocial Opportunities Collide: Tipping vs. Charity on Digital Platforms</span>
