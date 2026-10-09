@@ -61,7 +61,7 @@ Forthcoming at JAIS
 
 <p style="margin-bottom:0.4em; font-size:0.95em;" markdown="1">
 *Meixian Wang, Keran Zhao, Sunil Wattal.*
-Under Review at ISR
+Preparing for submission at MISQ
 </p>
 
 <details style="border-left:4px solid #999; background:#f7f7f7; padding:0.6em; font-size:0.9em;">
