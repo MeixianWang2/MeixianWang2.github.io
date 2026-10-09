@@ -61,7 +61,7 @@ Forthcoming at JAIS
 ## <span style="color:#910f0f">In Progress & Other Projects</span>
 
 <!-- Paper 3 -->
-## <span style="color:#910f0f">When Prosocial Opportunities Collide: Tipping vs. Charity on Digital Platforms</span>
+### When Prosocial Opportunities Collide: Tipping vs. Charity on Digital Platforms
 
 <p style="margin-bottom:0.4em; font-size:0.95em;" markdown="1">
 *Meixian Wang, Keran Zhao, Sunil Wattal.*
