@@ -38,6 +38,11 @@ Research Methodologies:
 * Econometrics and Causal Inference
 * Machine Learning
 
+Published Papers
+======
+* Meixian Wang, Keran Zhao, Jason Bennett Thatcher. “The Impact of Superstar Exits on Live Streaming E-Commerce Platforms.”
+ Forthcoming at Journal of the Association for Information Systems.
+  
 Working Papers
 ======
 * Meixian Wang, Jaehwuen Jung, Ravi Bapna “The Impact of Realism and AI Disclosure on Virtual Influencer Effectiveness: A Large Field Experiment”
