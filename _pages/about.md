@@ -46,17 +46,16 @@ Published Papers
 Working Papers
 ======
 * Meixian Wang, Jaehwuen Jung, Ravi Bapna “The Impact of Realism and AI Disclosure on Virtual Influencer Effectiveness: A Large Field Experiment”
-  Invited for 2nd round review at Information Systems Research – Job Market Paper.
+  Invited for 3rd round review at Information Systems Research – Job Market Paper.
 
   Conference presentations: PlatStrat2024, CIST 2024, INFORMS 2025, AI@Wharton, AI@NYU
   
-* Meixian Wang, Keran Zhao, Jason Bennett Thatcher. “The Impact of Superstar Exits on Live Streaming E-Commerce Platforms.”
-  Invited for 2nd round review at Journal of the Association for Information Systems.
+* Meixian Wang, Xincheng Ma, Jaehwuen Jung. “Whose Face, Whose Words: Field Experiments on AI Disclosure Labels for Synthetic Presenters.” Preparing for submission to Information Systems Research.
 
-  Conference presentations: WITS 2022 (Best paper nomination).
-  
+  Conference presentations: CIST 2026
+
 * Meixian Wang, Keran Zhao, Sunil Wattal “When Prosocial Opportunities Collide: Tipping vs. Charity on Digital Platforms”
-  Under Review at Information Systems Research.
+  Preparing for submission at MIS Quarterly.
 
   Conference presentations: WISE 2024, CIST 2025
   
