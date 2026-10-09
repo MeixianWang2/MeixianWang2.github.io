@@ -1,6 +1,6 @@
 ---
 permalink: /nmp/
-title: "Working Papers"
+title: "Papers"
 author_profile: true
 redirect_from: 
   - /nmp.html
