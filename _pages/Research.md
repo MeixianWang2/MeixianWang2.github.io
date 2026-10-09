@@ -56,6 +56,10 @@ Forthcoming at JAIS
 ---
 
 
+
+<!-- Pipeline / additional projects -->
+## <span style="color:#910f0f">In Progress & Other Projects</span>
+
 <!-- Paper 3 -->
 ## <span style="color:#910f0f">When Prosocial Opportunities Collide: Tipping vs. Charity on Digital Platforms</span>
 
@@ -71,12 +75,7 @@ Preparing for submission at MISQ
 
   </p>
 </details>
-
 ---
-
-<!-- Pipeline / additional projects -->
-## <span style="color:#910f0f">In Progress & Other Projects</span>
-
 <!-- Project A -->
 ### Personalization–Privacy Tradeoffs and AI Identity Disclosure: Evidence from a Large-Scale Field Experiment with Hyper-Realistic AI Agents
 <p style="margin-bottom:0.4em; font-size:0.95em;" markdown="1">
