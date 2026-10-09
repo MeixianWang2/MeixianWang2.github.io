@@ -76,6 +76,7 @@ Preparing for submission at MISQ
   </p>
 </details>
 ---
+
 <!-- Project A -->
 ### Personalization–Privacy Tradeoffs and AI Identity Disclosure: Evidence from a Large-Scale Field Experiment with Hyper-Realistic AI Agents
 <p style="margin-bottom:0.4em; font-size:0.95em;" markdown="1">
