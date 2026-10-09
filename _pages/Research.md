@@ -80,7 +80,7 @@ Preparing for submission at MISQ
 <!-- Project A -->
 ### Personalization–Privacy Tradeoffs and AI Identity Disclosure: Evidence from a Large-Scale Field Experiment with Hyper-Realistic AI Agents
 <p style="margin-bottom:0.4em; font-size:0.95em;" markdown="1">
-*Meixian Wang, Jaehwuen Jung.* Field experiment & data analysis in progress. (Presented at ACR 2025)
+*Meixian Wang, Jaehwuen Jung.* Field experiment & data analysis in progress. (Presented at CIST 2026)
 </p>
 <details style="border-left:4px solid #999; background:#f7f7f7; padding:0.6em; font-size:0.9em;">
   <summary style="font-size:1em;"><strong>Summary</strong></summary>
