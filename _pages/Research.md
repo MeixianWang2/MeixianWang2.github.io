@@ -8,9 +8,26 @@ redirect_from:
 
 <div style="width:100%; line-height:1.5; margin: 0 0 1.5em 0; text-align:justify;" markdown="1">
 
+## <span style="color:#910f0f">Published Paper</span>
+<!-- Paper 1 -->
+## <span style="color:#910f0f">The Impact of Superstar Exits on Live Streaming E-Commerce Platforms</span>
+
+<p style="margin-bottom:0.4em; font-size:0.95em;" markdown="1">
+*Meixian Wang, Keran Zhao, Jason Bennett Thatcher.*
+Major revision at JAIS
+</p>
+
+<details style="border-left:4px solid #999; background:#f7f7f7; padding:0.6em; font-size:0.9em;">
+  <summary style="font-size:1em;"><strong>Summary</strong></summary>
+  <p style="margin:0.4em 0;">
+    Influencer marketing has become a pivotal e-commerce strategy, revolutionizing how brands interact with consumers. This strategy’s reliance on high-profile streamers, or "superstars," presents opportunities and challenges. While these influential figures drive significant platform value, their unexpected exits pose strategic challenges for ecosystem stakeholders. This study investigates a critical yet underexplored question: how does a superstar streamer's sudden departure reshape market dynamics within LSE platforms? Using a natural experiment, the unexpected exit of Viya, China's leading live streamer from Taobao Live, we conduct an empirical case study to examine the effects on 3,102 peer streamers across 165,004 streaming sessions. Our findings reveal that peer streamers in similar content categories experience significant benefits following a superstar's exit. Notably, this improvement stems from demand redistribution rather than changes in content supply, as peer streamers maintain consistent productivity and promotional strategies post-exit. Our analysis further identifies two key moderating factors: channel similarity and streamer type. Peer streamers more similar to the departed superstar experience amplified sales gains, particularly when similarity exists in hedonic attributes like content category and popularity. Interestingly, brand-employed streamers, who represent specific brands, gained greater sales and number of views than influencer streamers. This study extends the literature on LSE, the superstar effect, and brand halo effects while offering practical implications for platform managers, brands, streamers, and consumers.
+
+  </p>
+</details>
+
 ## <span style="color:#910f0f">Paper Under Review</span>
 
-<!-- Paper 1 -->
+<!-- Paper 2 -->
 ## <span style="color:#910f0f">The Impact of Realism and AI Disclosure on Virtual Influencer Effectiveness: A Large Field Experiment</span>
 
 <p style="margin-bottom:0.4em; font-size:0.95em;" markdown="1">
@@ -38,21 +55,7 @@ redirect_from:
 
 ---
 
-<!-- Paper 2 -->
-## <span style="color:#910f0f">The Impact of Superstar Exits on Live Streaming E-Commerce Platforms</span>
 
-<p style="margin-bottom:0.4em; font-size:0.95em;" markdown="1">
-*Meixian Wang, Keran Zhao, Jason Bennett Thatcher.*
-Major revision at JAIS
-</p>
-
-<details style="border-left:4px solid #999; background:#f7f7f7; padding:0.6em; font-size:0.9em;">
-  <summary style="font-size:1em;"><strong>Summary</strong></summary>
-  <p style="margin:0.4em 0;">
-    Influencer marketing has become a pivotal e-commerce strategy, revolutionizing how brands interact with consumers. This strategy’s reliance on high-profile streamers, or "superstars," presents opportunities and challenges. While these influential figures drive significant platform value, their unexpected exits pose strategic challenges for ecosystem stakeholders. This study investigates a critical yet underexplored question: how does a superstar streamer's sudden departure reshape market dynamics within LSE platforms? Using a natural experiment, the unexpected exit of Viya, China's leading live streamer from Taobao Live, we conduct an empirical case study to examine the effects on 3,102 peer streamers across 165,004 streaming sessions. Our findings reveal that peer streamers in similar content categories experience significant benefits following a superstar's exit. Notably, this improvement stems from demand redistribution rather than changes in content supply, as peer streamers maintain consistent productivity and promotional strategies post-exit. Our analysis further identifies two key moderating factors: channel similarity and streamer type. Peer streamers more similar to the departed superstar experience amplified sales gains, particularly when similarity exists in hedonic attributes like content category and popularity. Interestingly, brand-employed streamers, who represent specific brands, gained greater sales and number of views than influencer streamers. This study extends the literature on LSE, the superstar effect, and brand halo effects while offering practical implications for platform managers, brands, streamers, and consumers.
-
-  </p>
-</details>
 
 ---
 
